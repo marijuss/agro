@@ -15,7 +15,7 @@
  * @wordpress-plugin
  * Plugin Name:       fertilizer
  * Plugin URI:        fertilizer
- * Description:       This is a short description of what the plugin does. It's displayed in the WordPress admin area.
+ * Description:       This is a plugin for our fertilizers.
  * Version:           1.0.0
  * Author:            Marijus
  * Author URI:        www.test.lt
