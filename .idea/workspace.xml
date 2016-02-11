@@ -1,0 +1,999 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="16dd7a48-cdc6-49b5-a0e1-1dca0ed35087" name="Default" comment="">
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\WordPress-Admin-Style-master\.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\WordPress-Admin-Style-master\README.md" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\WordPress-Admin-Style-master\assets\screenshot-1.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\WordPress-Admin-Style-master\assets\screenshot-2.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\WordPress-Admin-Style-master\assets\screenshot-3.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\WordPress-Admin-Style-master\assets\screenshot-4.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\WordPress-Admin-Style-master\assets\screenshot-5.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\WordPress-Admin-Style-master\assets\screenshot-6.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\WordPress-Admin-Style-master\composer.json" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\WordPress-Admin-Style-master\css\dashicons-demo.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\WordPress-Admin-Style-master\css\genericons-demo.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\WordPress-Admin-Style-master\css\genericons.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\WordPress-Admin-Style-master\css\jquery-ui-classic.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\WordPress-Admin-Style-master\css\jquery-ui-demo.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\WordPress-Admin-Style-master\css\jquery-ui-fresh.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\WordPress-Admin-Style-master\fonts\genericons-regular-webfont.eot" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\WordPress-Admin-Style-master\fonts\genericons-regular-webfont.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\WordPress-Admin-Style-master\fonts\genericons-regular-webfont.ttf" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\WordPress-Admin-Style-master\fonts\genericons-regular-webfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\WordPress-Admin-Style-master\images\ui-icons_21759b_256x240.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\WordPress-Admin-Style-master\images\ui-icons_333333_256x240.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\WordPress-Admin-Style-master\images\ui-icons_999999_256x240.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\WordPress-Admin-Style-master\images\ui-icons_cc0000_256x240.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\WordPress-Admin-Style-master\inc\plugin-updates\README.md" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\WordPress-Admin-Style-master\inc\plugin-updates\css\puc-debug-bar.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\WordPress-Admin-Style-master\inc\plugin-updates\debug-bar-panel.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\WordPress-Admin-Style-master\inc\plugin-updates\debug-bar-plugin.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\WordPress-Admin-Style-master\inc\plugin-updates\js\debug-bar.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\WordPress-Admin-Style-master\inc\plugin-updates\plugin-update-checker.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\WordPress-Admin-Style-master\inc\update.json" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\WordPress-Admin-Style-master\inc\wp-admin-jquery-ui.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\WordPress-Admin-Style-master\inc\wp-dashicons.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\WordPress-Admin-Style-master\inc\wp-genericons.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\WordPress-Admin-Style-master\js\dashicons-picker.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\WordPress-Admin-Style-master\js\jquery-ui-demo.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\WordPress-Admin-Style-master\license.txt" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\WordPress-Admin-Style-master\patterns\admin-notices.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\WordPress-Admin-Style-master\patterns\alternative-colours.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\WordPress-Admin-Style-master\patterns\buttons.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\WordPress-Admin-Style-master\patterns\color-scheme-blue.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\WordPress-Admin-Style-master\patterns\color-scheme-gray.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\WordPress-Admin-Style-master\patterns\form-elements-fieldset-input.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\WordPress-Admin-Style-master\patterns\form-elements-input.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\WordPress-Admin-Style-master\patterns\form-elements-select.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\WordPress-Admin-Style-master\patterns\form-elements-textarea.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\WordPress-Admin-Style-master\patterns\form-helper-functions.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\WordPress-Admin-Style-master\patterns\headers.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\WordPress-Admin-Style-master\patterns\menu-bubble.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\WordPress-Admin-Style-master\patterns\pagination.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\WordPress-Admin-Style-master\patterns\spinners.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\WordPress-Admin-Style-master\patterns\tables.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\WordPress-Admin-Style-master\patterns\tabs.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\WordPress-Admin-Style-master\patterns\two-column-layout-1.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\WordPress-Admin-Style-master\patterns\two-column-layout-2.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\WordPress-Admin-Style-master\patterns\two-column-layout-3.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\WordPress-Admin-Style-master\wp-admin-style.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\advanced-custom-fields\README.md" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\advanced-custom-fields\acf.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\advanced-custom-fields\core\actions\export.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\advanced-custom-fields\core\api.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\advanced-custom-fields\core\controllers\addons.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\advanced-custom-fields\core\controllers\everything_fields.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\advanced-custom-fields\core\controllers\export.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\advanced-custom-fields\core\controllers\field_group.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\advanced-custom-fields\core\controllers\field_groups.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\advanced-custom-fields\core\controllers\input.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\advanced-custom-fields\core\controllers\location.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\advanced-custom-fields\core\controllers\post.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\advanced-custom-fields\core\controllers\revisions.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\advanced-custom-fields\core\controllers\third_party.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\advanced-custom-fields\core\controllers\upgrade.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\advanced-custom-fields\core\fields\_base.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\advanced-custom-fields\core\fields\_functions.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\advanced-custom-fields\core\fields\checkbox.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\advanced-custom-fields\core\fields\color_picker.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\advanced-custom-fields\core\fields\date_picker\date_picker.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\advanced-custom-fields\core\fields\date_picker\images\ui-bg_flat_0_aaaaaa_40x100.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\advanced-custom-fields\core\fields\date_picker\images\ui-bg_flat_55_5bc6f5_40x100.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\advanced-custom-fields\core\fields\date_picker\images\ui-bg_flat_75_ffffff_40x100.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\advanced-custom-fields\core\fields\date_picker\images\ui-bg_glass_65_ffffff_1x400.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\advanced-custom-fields\core\fields\date_picker\images\ui-bg_glass_75_dadada_1x400.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\advanced-custom-fields\core\fields\date_picker\images\ui-bg_glass_75_e6e6e6_1x400.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\advanced-custom-fields\core\fields\date_picker\images\ui-bg_glass_95_fef1ec_1x400.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\advanced-custom-fields\core\fields\date_picker\images\ui-bg_highlight-soft_0_444444_1x100.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\advanced-custom-fields\core\fields\date_picker\images\ui-icons_222222_256x240.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\advanced-custom-fields\core\fields\date_picker\images\ui-icons_2e83ff_256x240.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\advanced-custom-fields\core\fields\date_picker\images\ui-icons_454545_256x240.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\advanced-custom-fields\core\fields\date_picker\images\ui-icons_888888_256x240.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\advanced-custom-fields\core\fields\date_picker\images\ui-icons_cd0a0a_256x240.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\advanced-custom-fields\core\fields\date_picker\jquery.ui.datepicker.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\advanced-custom-fields\core\fields\date_picker\style.date_picker.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\advanced-custom-fields\core\fields\dummy.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\advanced-custom-fields\core\fields\email.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\advanced-custom-fields\core\fields\file.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\advanced-custom-fields\core\fields\google-map.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\advanced-custom-fields\core\fields\image.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\advanced-custom-fields\core\fields\message.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\advanced-custom-fields\core\fields\number.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\advanced-custom-fields\core\fields\page_link.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\advanced-custom-fields\core\fields\password.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\advanced-custom-fields\core\fields\post_object.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\advanced-custom-fields\core\fields\radio.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\advanced-custom-fields\core\fields\relationship.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\advanced-custom-fields\core\fields\select.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\advanced-custom-fields\core\fields\tab.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\advanced-custom-fields\core\fields\taxonomy.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\advanced-custom-fields\core\fields\text.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\advanced-custom-fields\core\fields\textarea.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\advanced-custom-fields\core\fields\true_false.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\advanced-custom-fields\core\fields\user.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\advanced-custom-fields\core\fields\wysiwyg.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\advanced-custom-fields\core\views\meta_box_fields.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\advanced-custom-fields\core\views\meta_box_location.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\advanced-custom-fields\core\views\meta_box_options.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\advanced-custom-fields\css\acf.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\advanced-custom-fields\css\field-group.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\advanced-custom-fields\css\global.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\advanced-custom-fields\css\input.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\advanced-custom-fields\images\add-ons\cf7-field-thumb.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\advanced-custom-fields\images\add-ons\date-time-field-thumb.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\advanced-custom-fields\images\add-ons\flexible-content-field-thumb.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\advanced-custom-fields\images\add-ons\gallery-field-thumb.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\advanced-custom-fields\images\add-ons\google-maps-field-thumb.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\advanced-custom-fields\images\add-ons\gravity-forms-field-thumb.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\advanced-custom-fields\images\add-ons\options-page-thumb.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\advanced-custom-fields\images\add-ons\repeater-field-thumb.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\advanced-custom-fields\images\arrows.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\advanced-custom-fields\images\arrows@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\advanced-custom-fields\images\sprite.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\advanced-custom-fields\images\sprite@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\advanced-custom-fields\images\wpspin_light.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\advanced-custom-fields\images\wpspin_light@2x.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\advanced-custom-fields\js\field-group.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\advanced-custom-fields\js\field-group.min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\advanced-custom-fields\js\input.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\advanced-custom-fields\js\input.min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\advanced-custom-fields\js\input\_listener.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\advanced-custom-fields\js\input\_listener.min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\advanced-custom-fields\js\input\acf.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\advanced-custom-fields\js\input\ajax.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\advanced-custom-fields\js\input\color-picker.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\advanced-custom-fields\js\input\date-picker.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\advanced-custom-fields\js\input\file.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\advanced-custom-fields\js\input\google-map.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\advanced-custom-fields\js\input\image.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\advanced-custom-fields\js\input\radio.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\advanced-custom-fields\js\input\relationship.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\advanced-custom-fields\js\input\tab.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\advanced-custom-fields\js\input\validation.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\advanced-custom-fields\js\input\wysiwyg.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\advanced-custom-fields\js\tinymce.code.min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\advanced-custom-fields\lang\acf-cs_CZ.mo" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\advanced-custom-fields\lang\acf-cs_CZ.po" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\advanced-custom-fields\lang\acf-de_DE.mo" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\advanced-custom-fields\lang\acf-de_DE.po" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\advanced-custom-fields\lang\acf-es_ES.mo" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\advanced-custom-fields\lang\acf-es_ES.po" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\advanced-custom-fields\lang\acf-fa_IR.mo" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\advanced-custom-fields\lang\acf-fa_IR.po" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\advanced-custom-fields\lang\acf-fi_FI.mo" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\advanced-custom-fields\lang\acf-fi_FI.po" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\advanced-custom-fields\lang\acf-fr_FR.mo" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\advanced-custom-fields\lang\acf-fr_FR.po" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\advanced-custom-fields\lang\acf-he_IL.mo" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\advanced-custom-fields\lang\acf-he_IL.po" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\advanced-custom-fields\lang\acf-it_IT.mo" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\advanced-custom-fields\lang\acf-it_IT.po" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\advanced-custom-fields\lang\acf-ja.mo" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\advanced-custom-fields\lang\acf-ja.po" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\advanced-custom-fields\lang\acf-nl_NL.mo" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\advanced-custom-fields\lang\acf-nl_NL.po" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\advanced-custom-fields\lang\acf-pl_PL.mo" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\advanced-custom-fields\lang\acf-pl_PL.po" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\advanced-custom-fields\lang\acf-pt_BR.mo" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\advanced-custom-fields\lang\acf-pt_BR.po" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\advanced-custom-fields\lang\acf-pt_PT.mo" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\advanced-custom-fields\lang\acf-pt_PT.po" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\advanced-custom-fields\lang\acf-ru-RU.mo" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\advanced-custom-fields\lang\acf-ru_RU.mo" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\advanced-custom-fields\lang\acf-ru_RU.po" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\advanced-custom-fields\lang\acf-sk_SK.mo" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\advanced-custom-fields\lang\acf-sk_SK.po" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\advanced-custom-fields\lang\acf-sr_RS.mo" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\advanced-custom-fields\lang\acf-sr_RS.po" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\advanced-custom-fields\lang\acf-sv_SE.mo" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\advanced-custom-fields\lang\acf-sv_SE.po" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\advanced-custom-fields\lang\acf-tr_TR.mo" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\advanced-custom-fields\lang\acf-tr_TR.po" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\advanced-custom-fields\lang\acf-uk.mo" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\advanced-custom-fields\lang\acf-uk.po" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\advanced-custom-fields\lang\acf-zh_CN.mo" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\advanced-custom-fields\lang\acf-zh_CN.po" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\advanced-custom-fields\lang\acf.pot" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\advanced-custom-fields\readme.txt" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\advanced-custom-fields\screenshot-1.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\advanced-custom-fields\screenshot-2.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\advanced-custom-fields\screenshot-3.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\advanced-custom-fields\screenshot-4.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\custom-taxonomies-menu-widget\README.txt" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\custom-taxonomies-menu-widget\includes\sgr-ctmw-class-widget.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\custom-taxonomies-menu-widget\includes\sgr-ctmw-ui-admin.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\custom-taxonomies-menu-widget\screenshot-1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\custom-taxonomies-menu-widget\sgr-custom-taxonomies-menu-widget.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\custom-taxonomies-menu-widget\uninstall.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\simple-taxonomy\inc\class.admin.conversion.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\simple-taxonomy\inc\class.admin.import.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\simple-taxonomy\inc\class.admin.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\simple-taxonomy\inc\class.admin.post.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\simple-taxonomy\inc\class.base.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\simple-taxonomy\inc\class.client.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\simple-taxonomy\inc\class.widget.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\simple-taxonomy\inc\functions.inc.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\simple-taxonomy\inc\functions.tpl.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\simple-taxonomy\inc\template\plugin.tpl" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\simple-taxonomy\languages\simple-taxonomy-fr_FR.mo" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\simple-taxonomy\languages\simple-taxonomy-fr_FR.po" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\simple-taxonomy\languages\simple-taxonomy.pot" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\simple-taxonomy\readme.rd" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\simple-taxonomy\readme.txt" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\simple-taxonomy\ressources\admin.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\simple-taxonomy\simple-taxonomy.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\tablepress\admin\css\codemirror.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\tablepress\admin\css\codemirror.min.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\tablepress\admin\css\common-rtl.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\tablepress\admin\css\common-rtl.min.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\tablepress\admin\css\common.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\tablepress\admin\css\common.min.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\tablepress\admin\css\edit.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\tablepress\admin\css\edit.min.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\tablepress\admin\css\index.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\tablepress\admin\img\index.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\tablepress\admin\img\tablepress-editor-button-2x.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\tablepress\admin\img\tablepress-editor-button.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\tablepress\admin\index.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\tablepress\admin\js\add.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\tablepress\admin\js\add.min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\tablepress\admin\js\codemirror.min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\tablepress\admin\js\common.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\tablepress\admin\js\common.min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\tablepress\admin\js\edit.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\tablepress\admin\js\edit.min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\tablepress\admin\js\export.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\tablepress\admin\js\export.min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\tablepress\admin\js\import.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\tablepress\admin\js\import.min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\tablepress\admin\js\index.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\tablepress\admin\js\list.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\tablepress\admin\js\list.min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\tablepress\admin\js\options.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\tablepress\admin\js\options.min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\tablepress\admin\js\quicktags-button.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\tablepress\admin\js\quicktags-button.min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\tablepress\admin\js\tinymce-button.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\tablepress\admin\js\tinymce-button.min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\tablepress\classes\class-admin-page-helper.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\tablepress\classes\class-controller.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\tablepress\classes\class-css.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\tablepress\classes\class-evaluate.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\tablepress\classes\class-export.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\tablepress\classes\class-import.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\tablepress\classes\class-model.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\tablepress\classes\class-render.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\tablepress\classes\class-tablepress.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\tablepress\classes\class-view.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\tablepress\classes\class-wp_option.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\tablepress\classes\class-wp_user_option.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\tablepress\classes\index.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\tablepress\controllers\controller-admin.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\tablepress\controllers\controller-admin_ajax.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\tablepress\controllers\controller-frontend.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\tablepress\controllers\index.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\tablepress\controllers\template-tag-functions.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\tablepress\css\default-rtl.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\tablepress\css\default-rtl.min.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\tablepress\css\default.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\tablepress\css\default.min.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\tablepress\css\index.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\tablepress\css\tablepress.eot" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\tablepress\css\tablepress.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\tablepress\css\tablepress.ttf" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\tablepress\css\tablepress.woff" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\tablepress\css\warning.txt" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\tablepress\i18n\datatables\index.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\tablepress\i18n\datatables\lang-ar.json" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\tablepress\i18n\datatables\lang-az.json" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\tablepress\i18n\datatables\lang-bel.json" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\tablepress\i18n\datatables\lang-bg_BG.json" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\tablepress\i18n\datatables\lang-cs_CZ.json" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\tablepress\i18n\datatables\lang-da_DK.json" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\tablepress\i18n\datatables\lang-de_DE.json" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\tablepress\i18n\datatables\lang-el.json" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\tablepress\i18n\datatables\lang-en_US.json" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\tablepress\i18n\datatables\lang-es_ES.json" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\tablepress\i18n\datatables\lang-et.json" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\tablepress\i18n\datatables\lang-fa_IR.json" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\tablepress\i18n\datatables\lang-fi.json" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\tablepress\i18n\datatables\lang-fr_FR.json" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\tablepress\i18n\datatables\lang-ga.json" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\tablepress\i18n\datatables\lang-he_IL.json" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\tablepress\i18n\datatables\lang-hi_IN.json" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\tablepress\i18n\datatables\lang-hr.json" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\tablepress\i18n\datatables\lang-hu_HU.json" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\tablepress\i18n\datatables\lang-id_ID.json" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\tablepress\i18n\datatables\lang-is_IS.json" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\tablepress\i18n\datatables\lang-it_IT.json" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\tablepress\i18n\datatables\lang-ja.json" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\tablepress\i18n\datatables\lang-ko_KR.json" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\tablepress\i18n\datatables\lang-lt_LT.json" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\tablepress\i18n\datatables\lang-lv.json" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\tablepress\i18n\datatables\lang-mk_MK.json" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\tablepress\i18n\datatables\lang-nb_NO.json" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\tablepress\i18n\datatables\lang-nl_NL.json" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\tablepress\i18n\datatables\lang-nn_NO.json" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\tablepress\i18n\datatables\lang-pl_PL.json" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\tablepress\i18n\datatables\lang-pt_BR.json" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\tablepress\i18n\datatables\lang-pt_PT.json" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\tablepress\i18n\datatables\lang-ro_RO.json" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\tablepress\i18n\datatables\lang-ru_RU.json" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\tablepress\i18n\datatables\lang-sk_SK.json" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\tablepress\i18n\datatables\lang-sl_SI.json" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\tablepress\i18n\datatables\lang-sq.json" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\tablepress\i18n\datatables\lang-sr_RS.json" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\tablepress\i18n\datatables\lang-sv_SE.json" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\tablepress\i18n\datatables\lang-th.json" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\tablepress\i18n\datatables\lang-tr_TR.json" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\tablepress\i18n\datatables\lang-uk.json" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\tablepress\i18n\datatables\lang-vi.json" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\tablepress\i18n\datatables\lang-zh_CN.json" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\tablepress\i18n\datatables\lang-zh_TW.json" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\tablepress\i18n\datatables\warning.txt" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\tablepress\i18n\index.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\tablepress\i18n\translating-tablepress.txt" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\tablepress\index.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\tablepress\js\index.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\tablepress\js\jquery.datatables.min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\tablepress\libraries\csstidy\class.csstidy.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\tablepress\libraries\csstidy\class.csstidy_optimise.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\tablepress\libraries\csstidy\class.csstidy_print.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\tablepress\libraries\csstidy\data-tp.inc.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\tablepress\libraries\csstidy\data.inc.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\tablepress\libraries\csstidy\index.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\tablepress\libraries\csstidy\tablepress-standard.tpl" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\tablepress\libraries\csv-parser.class.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\tablepress\libraries\evalmath.class.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\tablepress\libraries\excel-reader.class.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\tablepress\libraries\index.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\tablepress\libraries\simplexlsx.class.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\tablepress\models\index.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\tablepress\models\model-options.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\tablepress\models\model-post.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\tablepress\models\model-table.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\tablepress\readme.txt" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\tablepress\tablepress.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\tablepress\views\index.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\tablepress\views\view-about.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\tablepress\views\view-add.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\tablepress\views\view-edit.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\tablepress\views\view-editor_button_thickbox.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\tablepress\views\view-export.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\tablepress\views\view-import.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\tablepress\views\view-list.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\tablepress\views\view-options.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\tablepress\views\view-options_custom_css.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\tablepress\views\view-preview_table.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\wordpress-importer\languages\wordpress-importer.pot" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\wordpress-importer\parsers.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\wordpress-importer\readme.txt" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\wordpress-importer\tmp-wordpress-importer-readme.pot" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\plugins\wordpress-importer\wordpress-importer.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\themes\duena\404.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\themes\duena\archive.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\themes\duena\author.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\themes\duena\bootstrap\css\bootstrap.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\themes\duena\bootstrap\fonts\glyphicons-halflings-regular.eot" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\themes\duena\bootstrap\fonts\glyphicons-halflings-regular.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\themes\duena\bootstrap\fonts\glyphicons-halflings-regular.ttf" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\themes\duena\bootstrap\fonts\glyphicons-halflings-regular.woff" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\themes\duena\comments.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\themes\duena\css\admin-style.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\themes\duena\css\editor-style-rtl.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\themes\duena\css\editor-style.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\themes\duena\css\flexslider.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\themes\duena\css\font-awesome.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\themes\duena\css\ie.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\themes\duena\css\magnific-popup.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\themes\duena\font\FontAwesome.otf" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\themes\duena\font\fontawesome-webfont.eot" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\themes\duena\font\fontawesome-webfont.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\themes\duena\font\fontawesome-webfont.ttf" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\themes\duena\font\fontawesome-webfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\themes\duena\font\license.txt" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\themes\duena\footer.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\themes\duena\functions.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\themes\duena\header.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\themes\duena\image.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\themes\duena\images\arrows-ffffff.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\themes\duena\images\bg_direction_nav.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\themes\duena\images\empty_thumb.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\themes\duena\images\list-bullet.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\themes\duena\images\main-bg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\themes\duena\images\opacity-bg.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\themes\duena\images\page-top-bg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\themes\duena\images\post-format-icons.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\themes\duena\images\top-search-submit.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\themes\duena\inc\customizer.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\themes\duena\inc\extras.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\themes\duena\inc\jetpack.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\themes\duena\index.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\themes\duena\js\admin-scripts.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\themes\duena\js\bootstrap.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\themes\duena\js\custom.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\themes\duena\js\customizer.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\themes\duena\js\html5.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\themes\duena\js\jquery.flexslider.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\themes\duena\js\jquery.magnific-popup.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\themes\duena\js\jquery.mobilemenu.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\themes\duena\js\keyboard-image-navigation.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\themes\duena\js\navigation.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\themes\duena\js\sfmenu-touch.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\themes\duena\js\skip-link-focus-fix.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\themes\duena\js\superfish.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\themes\duena\languages\en_EN.mo" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\themes\duena\languages\en_EN.po" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\themes\duena\languages\readme.txt" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\themes\duena\license.txt" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\themes\duena\no-results.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\themes\duena\options.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\themes\duena\options\css\color-picker.min.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\themes\duena\options\css\optionsframework.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\themes\duena\options\images\ico-delete.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\themes\duena\options\js\color-picker.min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\themes\duena\options\js\iris.min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\themes\duena\options\js\media-uploader.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\themes\duena\options\js\options-custom.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\themes\duena\options\options-framework.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\themes\duena\options\options-interface.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\themes\duena\options\options-media-uploader.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\themes\duena\options\options-sanitize.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\themes\duena\page-templates\fullwidth.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\themes\duena\page-templates\portfolio.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\themes\duena\page.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\themes\duena\post-formats\aside.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\themes\duena\post-formats\audio.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\themes\duena\post-formats\author-bio.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\themes\duena\post-formats\chat.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\themes\duena\post-formats\gallery.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\themes\duena\post-formats\image.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\themes\duena\post-formats\index.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\themes\duena\post-formats\link.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\themes\duena\post-formats\post-meta.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\themes\duena\post-formats\post-nav.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\themes\duena\post-formats\post-thumb.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\themes\duena\post-formats\quote.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\themes\duena\post-formats\related-posts.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\themes\duena\post-formats\standard.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\themes\duena\post-formats\status.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\themes\duena\post-formats\video.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\themes\duena\readme.txt" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\themes\duena\rtl.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\themes\duena\screenshot.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\themes\duena\search.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\themes\duena\searchform.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\themes\duena\sidebar.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\themes\duena\single.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\themes\duena\slider.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\_users\marijus\work\FL\projs\Aurimas\site\wp-content\themes\duena\style.css" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/fertilizer/admin/class-fertilizer-admin.php" afterPath="$PROJECT_DIR$/wp-content/plugins/fertilizer/admin/class-fertilizer-admin.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/fertilizer/admin/partials/fertilizer-admin-display.php" afterPath="$PROJECT_DIR$/wp-content/plugins/fertilizer/admin/partials/fertilizer-admin-display.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/fertilizer/admin/js/fertilizer-admin.js" afterPath="$PROJECT_DIR$/wp-content/plugins/fertilizer/admin/js/fertilizer-admin.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-config.php" afterPath="$PROJECT_DIR$/wp-config.php" />
+    </list>
+    <ignored path="site.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="site" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="class-fertilizer-admin.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/plugins/fertilizer/admin/class-fertilizer-admin.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-15.192307" vertical-offset="2495" max-vertical-offset="3485">
+              <caret line="178" column="31" selection-start-line="178" selection-start-column="31" selection-end-line="178" selection-end-column="31" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="wp-config.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/wp-config.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.7119438" vertical-offset="446" max-vertical-offset="1326">
+              <caret line="79" column="24" selection-start-line="79" selection-start-column="19" selection-end-line="79" selection-end-column="24" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="fertilizer-admin.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/plugins/fertilizer/admin/js/fertilizer-admin.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="259" max-vertical-offset="1802">
+              <caret line="43" column="0" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="class-fertilizer.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/plugins/fertilizer/includes/class-fertilizer.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-20.73077" vertical-offset="2045" max-vertical-offset="3706">
+              <caret line="163" column="81" selection-start-line="163" selection-start-column="81" selection-end-line="163" selection-end-column="81" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="fertilizer-admin-display.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/plugins/fertilizer/admin/partials/fertilizer-admin-display.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-22.73077" vertical-offset="1670" max-vertical-offset="2550">
+              <caret line="133" column="39" selection-start-line="133" selection-start-column="39" selection-end-line="133" selection-end-column="39" />
+              <folding>
+                <element signature="e#7#253#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="fertilizer.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/plugins/fertilizer/fertilizer.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-11.115385" vertical-offset="0" max-vertical-offset="1377">
+              <caret line="17" column="59" selection-start-line="17" selection-start-column="59" selection-end-line="17" selection-end-column="59" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/wp-content/plugins/fertilizer/fertilizer.php" />
+        <option value="$PROJECT_DIR$/wp-content/plugins/fertilizer/includes/class-fertilizer.php" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/wp-content/plugins/fertilizer/admin/partials/fertilizer-admin-display.php" />
+        <option value="$PROJECT_DIR$/wp-content/plugins/fertilizer/admin/js/fertilizer-admin.js" />
+        <option value="$PROJECT_DIR$/wp-content/plugins/fertilizer/admin/class-fertilizer-admin.php" />
+        <option value="$PROJECT_DIR$/wp-config.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1066" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="agro" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="agro" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="site" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="agro" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="site" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp-content" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="agro" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="site" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp-content" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="plugins" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="agro" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="site" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp-content" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="plugins" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fertilizer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="agro" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="site" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp-content" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="plugins" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fertilizer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="languages" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="agro" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="site" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp-content" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="plugins" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fertilizer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="includes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="agro" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="site" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp-content" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="plugins" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fertilizer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="admin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="agro" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="site" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp-content" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="plugins" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fertilizer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="admin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="partials" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="agro" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="site" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp-content" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="plugins" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fertilizer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="admin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+    <list size="0" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="16dd7a48-cdc6-49b5-a0e1-1dca0ed35087" name="Default" comment="" />
+      <created>1455188340087</created>
+      <option name="number" value="Default" />
+      <updated>1455188340087</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.gitignore" />
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/fertilizer/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="880">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/fertilizer/admin/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="880">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-includes/wp-db.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5457788" vertical-offset="25194" max-vertical-offset="54927">
+          <caret line="1517" column="23" selection-start-line="1517" selection-start-column="23" selection-end-line="1517" selection-end-column="23" />
+          <folding>
+            <marker date="1447733606000" expanded="true" signature="-1:-1" placeholder="DELETE FROM ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/fertilizer/fertilizer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-11.115385" vertical-offset="0" max-vertical-offset="1377">
+          <caret line="17" column="59" selection-start-line="17" selection-start-column="59" selection-end-line="17" selection-end-column="59" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/fertilizer/includes/class-fertilizer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-20.73077" vertical-offset="2045" max-vertical-offset="3706">
+          <caret line="163" column="81" selection-start-line="163" selection-start-column="81" selection-end-line="163" selection-end-column="81" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/fertilizer/languages/fertilizer.pot">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="880">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/fertilizer/admin/partials/fertilizer-admin-display.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-22.73077" vertical-offset="1670" max-vertical-offset="2550">
+          <caret line="133" column="39" selection-start-line="133" selection-start-column="39" selection-end-line="133" selection-end-column="39" />
+          <folding>
+            <element signature="e#7#253#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/fertilizer/admin/js/fertilizer-admin.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="259" max-vertical-offset="1802">
+          <caret line="43" column="0" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/fertilizer/admin/class-fertilizer-admin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-15.192307" vertical-offset="2495" max-vertical-offset="3485">
+          <caret line="178" column="31" selection-start-line="178" selection-start-column="31" selection-end-line="178" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7119438" vertical-offset="446" max-vertical-offset="1326">
+          <caret line="79" column="24" selection-start-line="79" selection-start-column="19" selection-end-line="79" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
