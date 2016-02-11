@@ -174,10 +174,28 @@ class Fertilizer {
 	private function define_public_hooks() {
 
 		$plugin_public = new Fertilizer_Public( $this->get_plugin_name(), $this->get_version() );
+		$plugin_admin = new Fertilizer_Admin( $this->get_plugin_name(), $this->get_version() );
 
-		$this->loader->add_action( 'wp_enqueue_scripts', $plugin_public, 'enqueue_styles' );
-		$this->loader->add_action( 'wp_enqueue_scripts', $plugin_public, 'enqueue_scripts' );
+		/* 
+        *  The following actions are commented out as we won't need any added style or script to our theme
+        $this->loader->add_action( 'wp_enqueue_scripts', $plugin_public, 'enqueue_styles' );
+        $this->loader->add_action( 'wp_enqueue_scripts', $plugin_public, 'enqueue_scripts' );
+        */
 
+		// Below are our "public" frontend related actions and filters hooks
+
+		// Cleanup - Actions and filters
+		//Actions
+		$this->loader->add_action('init', $plugin_public, 'fertilizer_cleanup');
+		$this->loader->add_action('wp_loaded', $plugin_public, 'fertilizer_remove_comments_inline_styles');
+		$this->loader->add_action('wp_loaded', $plugin_public, 'fertilizer_remove_gallery_styles');
+		$this->loader->add_action('wp_enqueue_scripts', $plugin_public, 'fertilizer_cdn_jquery', PHP_INT_MAX);
+
+		//Filters
+		$this->loader->add_filter('wp_headers', $plugin_public, 'fertilizer_remove_x_pingback');
+		$this->loader->add_filter('body_class', $plugin_public, 'fertilizer_body_class_slug');
+
+		$this->loader->add_action('login_enqueue_scripts', $plugin_admin, 'fertilizer_login_css');
 	}
 
 	/**
